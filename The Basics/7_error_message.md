@@ -1,0 +1,1 @@
+The error message means that there is an open curly brace without a closing one.
